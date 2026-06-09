@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    background:#4CAF50 ;
+    color: white;
+    padding: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    background: white;
+    border: none;
+    cursor: pointer;
+}
+.hero{
+    padding: 50px;
+    background: 20px;
+}
+
+.features{
+    background:#fff ;
+    padding: 20px;
+}
