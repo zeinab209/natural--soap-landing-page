@@ -1,4 +1,4 @@
-# Natural soap landing age
+# Natural soap landing page
 
 A clean, modern, and responsive landing page for a natural soap brand. This project showcases the products. benefits, and brand identity using modern teachnologiws.
 
